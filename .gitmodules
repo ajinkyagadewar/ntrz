@@ -1,0 +1,4 @@
+[submodule "The256/BOM_CL"]
+	path = The256/BOM_CL
+	url = git@github.com:The256/BOM_CL.git
+	branch = master
